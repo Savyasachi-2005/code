@@ -8,7 +8,7 @@ symbols=(list(string.punctuation))
 
 letters=list(letter1+letter2)
 
-n_letter=int(input('how many letters you want in your password'))
+n_letter=int(input('how many letters you want in password'))
 n_number=int(input('how many number you want in password'))
 n_symbols=int(input('how many symbol you want in password'))
 
